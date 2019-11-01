@@ -1,2 +1,3 @@
 # Katana
-Katana - Security Tools
+
+Php application firewall / intrusion prevention system
